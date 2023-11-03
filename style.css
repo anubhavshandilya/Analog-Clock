@@ -33,7 +33,7 @@ container{
 .clock span{
     position: absolute;
     transform: rotate(calc(30deg * var(--i)));
-    inset: 200px;
+    inset: 220px;
     padding: 2px;
     text-align: center;
 }
